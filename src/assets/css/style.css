@@ -1,0 +1,146 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100&family=Roboto:ital,wght@0,100;1,100&display=swap');
+*{
+  margin: 0;
+  padding: 0;
+  
+}
+.bg-blue{
+    background: #016EA7;
+}
+
+.text-font-sm{
+     font-family: Roboto;
+     font-size: 16px;
+     text-decoration: none;
+     color: white;
+}
+
+.text-font-md{
+  font-family: Roboto;
+  font-size: 24px;
+  text-decoration: none;
+  color: white;
+}
+
+.text-font-lg{
+  font-family: Roboto;
+  font-size: 40px;
+  text-decoration: none;
+  color: white;
+}
+
+.text-color-waring{
+    color: #FFDE00!important;
+}
+
+.text-color-black{
+    color: #444444!important;
+}
+
+.text-color-blue{
+    color:#016EA7!important;
+}
+
+.hr-blue{
+     height: 4px;
+     width: 100px;
+     background: #016EA7;
+     border-radius: 22px;
+}
+
+.text-font-title{
+ 
+  
+  
+  /* H3 */
+  
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 28px;
+  
+  color: #444444;
+  
+}
+.group{
+
+  
+  /* TEXTO PEQUENO */
+  
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 12px;
+  /* identical to box height, or 157% */
+  
+  
+  color: rgba(68, 68, 68, 0.6);
+  
+
+}
+
+.input-modal{
+height: 50px;
+left: 521px;
+top: 449px;
+
+background: #FFFFFF;
+border: 1px solid #E5E5E5;
+box-sizing: border-box;
+border-radius: 4px;
+}
+.titulo{
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 40px;
+line-height: 47px;
+display: flex;
+align-items: center;
+
+color: #016EA7;
+
+}
+.subtitulo{
+  /* TEXTO */
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 24px;
+/* or 150% */
+
+
+
+color: #444444;
+}
+
+.label-text{
+width: 157.71px;
+height: 24px;
+left: 298px;
+top: 609px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 24px;
+/* identical to box height, or 200% */
+
+display: flex;
+align-items: center;
+
+color: #444444;
+}
+.input{
+
+
+background: #FFFFFF;
+border: 1px solid #E5E5E5;
+box-sizing: border-box;
+border-radius: 4px;
+}
